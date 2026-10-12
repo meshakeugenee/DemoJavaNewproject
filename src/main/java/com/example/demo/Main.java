@@ -6,6 +6,6 @@ public class Main {
 
         System.out.println("Hello, " + name + "!");
         System.out.println("Age: " + age);
-        System.out.println("Welcome to Java programming.");
+        System.out.println("Welcome to Java program");
     }
 }
